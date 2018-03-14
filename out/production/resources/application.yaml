@@ -1,3 +1,0 @@
-logging.level.root: INFO
-ShowInfoServiceImpl:
-  endPoint: "http://www.omdbapi.com/?apikey=f95e8aed&type=series&page=10"
